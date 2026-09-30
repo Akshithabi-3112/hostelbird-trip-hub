@@ -149,3 +149,4 @@ The current version is a functional frontend MVP using mock data. It does not
 connect to private HostelBird authentication, booking, payment, rewards, or
 community APIs.
 
+
