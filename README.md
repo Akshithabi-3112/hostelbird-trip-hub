@@ -149,10 +149,3 @@ The current version is a functional frontend MVP using mock data. It does not
 connect to private HostelBird authentication, booking, payment, rewards, or
 community APIs.
 
-## AI Assistance
-
-Kiro was used as an AI-assisted development tool for scaffolding, code
-suggestions, debugging, documentation, and QA planning. The participant
-directed the product decisions, reviewed the implementation, tested the
-interactions, and verified the final build.
-
