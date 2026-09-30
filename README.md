@@ -155,3 +155,4 @@ Kiro was used as an AI-assisted development tool for scaffolding, code
 suggestions, debugging, documentation, and QA planning. The participant
 directed the product decisions, reviewed the implementation, tested the
 interactions, and verified the final build.
+
